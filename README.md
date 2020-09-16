@@ -1,2 +1,2 @@
 # RocketElevatorsDigitalPresenceNode
-a prototyppe of my Node.js
+a prototype of my Node.js
